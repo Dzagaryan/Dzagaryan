@@ -1,5 +1,3 @@
-# Dzagaryan-Artem
-Dzagaryan Artem
 Hi, I'am Artem Dzagaryan!
 I am a student of Applied Mathematics at Bauman Moscow State Technical University.
 
